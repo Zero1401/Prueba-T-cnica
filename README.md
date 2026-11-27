@@ -10,3 +10,12 @@ El Apartado de MySQL por medio de root se creo la BD 'trabajadores', la tabla de
 
 Se creo la tabla con 8 atributos, uno adicional a los requeridos por ser el necesario para apoyarnos en busquedas u organización y el desarrollo de funciones "PROCEDURE" que realizan todos los Query que necesitamos para trabajar con PHP.
 
+En la parte de PHP para la conexión entre MySQL y la página web haciendo llamadas a las PROCEDURE.
+
+La sección de HTML que organiza áreas para ingresar los datos de los empleados
+
+---PARTES FALTANTES---
+
+Realice pruebas y no conecta a la base de datos, al momento de mandar datos corre un error en los datos y estos no presentan nda, mantiene los datos dentro de las casillas, ademas la tabla que deberia de mostrarse paramostrar los datos que van ingresando no muestra nda por lo mismo, es más un fallo de la conexión entre la BD y PHP a mi parecer que de html o podría ser la mismaa ágina web, (faltan más pruebas).
+
+Me guie bastante haciendo uso de la IA para saber cómo tenia que crear tanto los PROCEDURES, como el apartado de PHP y HTML, fuí modificandolo según lo requeria para cumplir los requerimentos del proyecto.
